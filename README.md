@@ -1,4 +1,4 @@
-# tina-zaman.si
+www.tina-zaman.si
 elektronska pošta
 <!DOCTYPE html>
 <html lang="sl">
